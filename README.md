@@ -4,9 +4,9 @@
 
 使用到的技術包括：
 
-前端
+前端：
 + React
 
-後端
+後端：
 + Django
 + django-restframework-jwt
