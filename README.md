@@ -9,4 +9,4 @@
 
 後端：
 + Django
-+ django-restframework-jwt
++ django-restframework-simplejwt
